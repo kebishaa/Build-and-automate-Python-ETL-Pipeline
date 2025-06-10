@@ -52,3 +52,15 @@ You can manually run the DAG from the Airflow web UI or trigger it via CLI
    ```bash
    airflow dags trigger weather_etl_dag
 
+
+🤝 Contributing
+Feel free to fork this repo and submit pull requests. All contributions are welcome!
+
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+🙋‍♂️ Author
+Kibatu Mezgebu
+📍 Addis Ababa, Ethiopia
+📧 Email Me
+🔗 LinkedIn
