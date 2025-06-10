@@ -56,7 +56,7 @@ def transform_load_data(task_instance):
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime(2023, 1, 8),
+    'start_date': datetime(2025, 5, 10),
     'email': ['myemail@domain.com'],
     'email_on_failure': False,
     'email_on_retry': False,
