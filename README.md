@@ -57,13 +57,8 @@ Internet access to call the weather API
 
 
 🤝 Contributing
-Feel free to fork this repo and submit pull requests. All contributions are welcome!
+Feel free to fork this repo and submit pull requests. 
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🙋‍♂️ Author
-Kibatu Mezgebu
-📍 Addis Ababa, Ethiopia
-📧 Email Me
-🔗 LinkedIn
