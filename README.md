@@ -22,3 +22,9 @@ Orchestrates and automates the pipeline using Apache Airflow.
 git clone https://github.com/kebishaa/Build-and-automate-Python-ETL-Pipeline
 cd weather-etl-airflow
 
+2. Install Python and Create Virtual Environment
+```bash
+sudo apt update
+sudo apt install python3-pip python3.10-venv -y
+python3 -m venv airflow_venv
+source airflow_venv/bin/activate
