@@ -24,3 +24,15 @@ Orchestrates and automates the pipeline using Apache Airflow.
    sudo apt install python3-pip python3.10-venv -y
    python3 -m venv airflow_venv
    source airflow_venv/bin/activate
+3. Install Dependencies
+    ```bash
+    pip install --upgrade pip
+    pip install -r requirements.txt
+4. Install and Configure AWS CLI
+     ```bash
+      sudo apt install awscli -y
+      aws configure
+5. Start Airflow
+    ```bash
+    airflow standalone
+
