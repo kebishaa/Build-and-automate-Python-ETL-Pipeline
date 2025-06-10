@@ -38,6 +38,8 @@ Orchestrates and automates the pipeline using Apache Airflow.
 This will initialize Airflow and start the webserver and scheduler.
 Default username: admin, password: auto-generated in terminal
 
+
+
 ✅ Prerequisites
 Python 3.10+
 
@@ -48,9 +50,10 @@ Apache Airflow 2.7+ (use standalone for local setup)
 Internet access to call the weather API
 
 🧪 Testing
-You can manually run the DAG from the Airflow web UI or trigger it via CLI 
-   ```bash
-   airflow dags trigger weather_etl_dag
+   You can manually run the DAG from the Airflow web UI or trigger it via CLI 
+      ```bash
+      airflow dags trigger weather_etl_dag
+
 
 
 🤝 Contributing
