@@ -51,8 +51,8 @@ Internet access to call the weather API
 
 🧪 Testing
    You can manually run the DAG from the Airflow web UI or trigger it via CLI 
-      ```bash
-      airflow dags trigger weather_etl_dag
+   ```bash
+   airflow dags trigger weather_etl_dag
 
 
 
