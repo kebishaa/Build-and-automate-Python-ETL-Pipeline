@@ -5,6 +5,7 @@
 This project extracts weather data from an API, transforms it, and loads it into an Amazon S3 bucket. The ETL process is orchestrated using Apache Airflow.
 
 🔧 Project Features
+
 ● Extracts real-time weather data from an API.
 
 ● Cleans and transforms the data using pandas.
