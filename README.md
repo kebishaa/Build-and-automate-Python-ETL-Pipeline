@@ -5,13 +5,13 @@
 This project extracts weather data from an API, transforms it, and loads it into an Amazon S3 bucket. The ETL process is orchestrated using Apache Airflow.
 
 🔧 Project Features
-Extracts real-time weather data from an API.
+● Extracts real-time weather data from an API.
 
-Cleans and transforms the data using pandas.
+● Cleans and transforms the data using pandas.
 
-Saves the transformed data to AWS S3 in CSV format.
+● Saves the transformed data to AWS S3 in CSV format.
 
-Orchestrates and automates the pipeline using Apache Airflow.
+● Orchestrates and automates the pipeline using Apache Airflow.
 
 🚀 Getting Started
 1. Clone the Repository
@@ -51,6 +51,6 @@ Internet access to call the weather API
 
 🧪 Testing
    You can manually run the DAG from the Airflow web UI or trigger it via CLI 
-    ```bash
-    airflow dags trigger weather_etl_dag
+ ```bash
+ airflow dags trigger weather_etl_dag
 
