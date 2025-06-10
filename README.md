@@ -8,4 +8,4 @@ This project extracts weather data from an API, transforms it, and loads it into
 1. Clone the Repository
    ```bash
    git clone https://github.com/kebishaa/Build-and-automate-Python-ETL-Pipeline
-cd weather-etl-airflow
+   cd weather-etl-airflow
